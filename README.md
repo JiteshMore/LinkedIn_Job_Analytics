@@ -169,7 +169,7 @@ We also referred to the official Selenium documentation for detailed information
 
 ## Dashboard
 
-Tableau Dashboard: [Linkdean Job Analysis Dashboard](https://public.tableau.com/app/profile/prashantmane572/viz/Linkdean_Jobanalysis/JobAnalysis?publish=yes)
+Tableau Dashboard: [Linkdean Job Analysis Dashboard](https://public.tableau.com/app/profile/jitesh.more/viz/Linkdean_Jobanalysis_17065147431160/JobAnalysis?publish=yes)
 
 ![project img 8](https://github.com/JiteshMore/LinkedIn_Job_Analytics/assets/132353761/223821f3-4811-471e-b96c-7d3badb0cf19)
 
