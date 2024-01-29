@@ -157,9 +157,14 @@ The ultimate challenge was figuring out how to scrape data from the website. On 
 
 ## Learning
 
-Throughout the project, we gained knowledge about Selenium through various resources. Reference links:
-- [[YouTube Tutorial 1](link_here)](https://www.youtube.com/watch?v=lTypMlVBFM4)
-- [YouTube Tutorial 2](link_here)
+Throughout the project, we gained knowledge about Selenium through various resources. 
+
+Reference links:
+
+- [YouTube Tutorial 1](https://www.youtube.com/watch?v=lTypMlVBFM4)
+
+- [YouTube Tutorial 2](https://www.youtube.com/watch?v=Xjv1sY630Uc)
+
 We also referred to the official Selenium documentation for detailed information.
 
 ## Dashboard
